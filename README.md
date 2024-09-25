@@ -1,3 +1,4 @@
+
 # Elementor Bug Fixes: Solution for elementor/core/settings/page/manager.php:250
 
 ### Fatal Error:
@@ -110,7 +111,7 @@ This ensures that the variable is initialized as an empty array if it's not alre
 The **primary solution** fixes the error related to accessing offsets in a non-array variable. The **other methods** listed are useful for troubleshooting similar issues with Elementor related to CSS generation and cache.
 
 We recommend you try the primary fix first, and then use the additional methods if your issue persists.
-```
+
 
 ### Key Points:
 - The **main fix** is highlighted clearly.
