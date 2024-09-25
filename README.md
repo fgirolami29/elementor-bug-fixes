@@ -1,6 +1,4 @@
-Here's a possible README.md file for your GitHub repository detailing the solution and additional methods to handle similar issues with Elementor.
 
-```md
 # Elementor Bug Fixes: Solution for elementor/core/settings/page/manager.php:250
 
 ### Fatal Error:
